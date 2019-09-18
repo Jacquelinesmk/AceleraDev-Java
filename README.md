@@ -1,1 +1,3 @@
 # AceleraDev-Java
+
+Exercícios
